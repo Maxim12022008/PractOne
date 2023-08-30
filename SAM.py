@@ -40,5 +40,5 @@ if re.match(reg,text):
     print('Правельно')
 else:
     print('Неправильно')
-
-print('ДОБАВИЛ ФАЙЛ')
+    
+    
